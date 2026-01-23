@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+spacy
+rapidfuzz
+regex
+unidecode
+fasttext
+indic-transliteration
+
